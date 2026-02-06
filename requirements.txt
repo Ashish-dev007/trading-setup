@@ -1,3 +1,5 @@
+streamlit==1.31.0
+altair==4.2.2
 pandas
+numpy
 xlsxwriter
-streamlit
